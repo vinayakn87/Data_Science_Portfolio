@@ -10,6 +10,5 @@ Currently the project consists of following parts: <br />
 **Final Result**
 | Model version | ROC score | Kaggle performance (on test data) |
 | ------------- | ----------- | ----------------- |
-
 | Logistic regression (baseline) | 0.6303 | 0.6109 |
 | Logistic regression (After feature selection) | 0.7486 | 0.7351 | 
