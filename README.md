@@ -1,4 +1,4 @@
-## [Project 1. Credit risk default prediction: Project overview](Credit-risk-default-prediction)
+## [Project 1. Credit risk default prediction: Project overview](https://github.com/vinayakn87/Credit-risk-default-prediction)
 ML model to predict the probability of default of the applicant using data from various sources like credit bureau, previous loan applications, previous loan performance, previous credit card performance, installment payments and current application. Data for the project comes from [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) competition hosted on Kaggle.
 Currently the project consists of following parts: <br />
 **Part 1:** Importing the raw training datasets, aggregate feature creation, & mapping these features on trainign data <br />
