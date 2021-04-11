@@ -6,6 +6,7 @@ Currently the project consists of following parts: <br />
 **Part 3 (Work in progress):** Try ensembling algorithms to see if it improves model performance any further
 
 **Final Result**
+
 | Model version | ROC score | Kaggle performance (on test data) |
 | ------------- | ----------- | ----------------- |
 | Logistic regression (baseline) | 0.6303 | 0.6109 |
