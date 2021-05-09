@@ -16,6 +16,6 @@ Following three methods have been illustrated to explore this:
 3. Threshold optimization to minimize costs
 
 **Result & Outcomes:**<br />
-<img src = "/images/Capture.JPG" width = "100" height = "50">
+<img src = "/images/Capture.JPG" width = "400" height = "200">
 
 
