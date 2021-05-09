@@ -16,6 +16,7 @@ Following three methods have been illustrated to explore this:
 3. Threshold optimization to minimize costs
 
 **Result & Outcomes:**<br />
-<img src = "/images/Capture.JPG">
+<img src = "https://github.com/vinayakn87/Portfolio/blob/master/images/Capture.JPG">
+
 
 
