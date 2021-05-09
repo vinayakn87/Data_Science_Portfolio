@@ -16,4 +16,4 @@ Following three methods have been illustrated to explore this:
 3. Threshold optimization to minimize costs
 
 **Result & Outcomes:**<br />
-![](Capture.png)
+![](/vinayakn87/Credit-card-fraud-detection/Capture.png)
