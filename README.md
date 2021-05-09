@@ -17,6 +17,5 @@ Following three methods have been illustrated to explore this:
 
 **Result & Outcomes:**<br />
 ![](/images/Capture.JPG)
-<img src = "/images/Capture.JPG">
 
 
