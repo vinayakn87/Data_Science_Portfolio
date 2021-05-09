@@ -7,3 +7,12 @@ Currently the project consists of following parts: <br />
 
 **Result & Outcomes:**<br />
 Current best model => Logistic regression with ROC 0.7486 on train & Kaggle score 0.7351 (on test)
+
+## [Project 2. Credit card fraud detection](https://github.com/vinayakn87/Credit-card-fraud-detection)
+The objective of this project was to build a machine learning model to detect fraudulent credit card transactions from given data. The Kaggle dataset used in this notebook can be found [here](https://www.kaggle.com/mlg-ulb/creditcardfraud). We approach this problem from two perspectives, first trying to use tradiotional ML models which minimize misclassification ignoring the costs and second by trying to minimize the cost while allowing higher missclassfication.
+Following three methods have been illustrated to explore this:
+1. Traditional ML models which try to which minimize misclassification
+2. Cost sensitive classification using Bayes minimum risk classifier
+3. Threshold optimization to minimize costs
+
+**Result & Outcomes:**<br />
